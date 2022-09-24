@@ -15,11 +15,11 @@ print 'indent 4 spaces'
 ```
 
 ## This is a link to github.com
-![image](https://github.com/)
+[link](https://github.com/)
 
 
 ## This is a picture of github logo
-[link](https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg)
+![image](https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg)
 
 
 > This is a Blockquote
