@@ -40,4 +40,5 @@ here are 3 things:
 ```
 # This is a code block
 1 + 1 = 2
+today = '2022-9-24'
 ```
