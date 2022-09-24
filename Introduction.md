@@ -13,3 +13,23 @@ horizontal rule:
 print '3 backticks or'
 print 'indent 4 spaces'
 ```
+
+## This is a link to github.com
+![image](https://github.com/)
+
+
+## This is a picture of github logo
+[link](https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg)
+
+
+> This is a Blockquote
+
+here are 3 things:
+1. first
+2. second
+3. third
+
+here are 3 things:
+* first
+* second
+* third
