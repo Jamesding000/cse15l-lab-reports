@@ -33,3 +33,11 @@ here are 3 things:
 * first
 * second
 * third
+
+---
+# Below is edit offline through vscode
+
+```
+# This is a code block
+1 + 1 = 2
+```
