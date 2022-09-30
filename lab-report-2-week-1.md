@@ -11,7 +11,7 @@ In the lab for week 1, you are going to follow the steps and learn how to setup 
 [image]()
 
 ### **2. Remotely Connecting**
-1. If you are working with a Windows computer, you should install a program called [OpenSSH](). You should only install OpenSSH client. (I skipped this step because I worked with a MacOs computer.)
+1. If you are working with a Windows computer, you should install a program called [OpenSSH](https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse?tabs=gui). You should only install OpenSSH client. (I skipped this step because I worked with a MacOs computer.)
 
 2. Click **Terminal** button on the top of the VSCode window, and select **New Terminal**.
 
