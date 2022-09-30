@@ -8,7 +8,7 @@ In the lab for week 1, you are going to follow the steps and learn how to setup 
 2. Follow the instructions and download the correct version to your computer (make sure it runs on your operating system).
 3. After it is succesfully installed, the windows will look like this (Since I've previously installed VSCode, the window will be a little bit differnt)
 
-<img width="1512" alt="vscode" src="https://user-images.githubusercontent.com/100378969/193358264-1ff69c08-a5c4-4f12-84ff-3a4d9b209182.png">
+<img width="1024" alt="截屏2022-09-30 下午2 28 43" src="https://user-images.githubusercontent.com/100378969/193358786-585fa959-9b4c-4422-ac62-fb4eb32e0733.png">
 
 ### **2. Remotely Connecting**
 1. If you are working with a Windows computer, you should install a program called [OpenSSH](https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse?tabs=gui). You should only install OpenSSH client. (I skipped this step because I worked with a MacOs computer.)
