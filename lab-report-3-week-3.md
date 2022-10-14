@@ -1,6 +1,7 @@
 # Lab Report 3
+## Part 1
 
-
+The code in SearchEngine.java is shown below:
 ```
 import java.io.IOException;
 import java.net.URI;
@@ -77,3 +78,5 @@ class SearchEngine {
 }
 
 ```
+
+
