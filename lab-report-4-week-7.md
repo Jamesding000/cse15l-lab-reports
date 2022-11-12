@@ -73,5 +73,19 @@ Since all of variables named "start" in this method have been replaced by "base"
 
 Click `<Enter>` to exit vim
 
+---
 
 ## Part 2
+
+### Timing on 2 options
+- Edit using vscode, and then `scp` to the remote computer : 72s
+
+- Login ssh and edit the code there : 61s
+
+### Which of these two styles would you prefer using if you had to work on a program that you were running remotely, and why?
+
+- I prefer to use vim to directly edit the code there. Because after I become more familiar with the vim operations, I found it totally possible to edit the code using vim as effeciently as using vscode. Moreover, in this way, if the code doesn't work as I expected, I can re-open the code using vim and edit it again without copying the code again. 
+
+### What about the project or task might factor into your decision one way or another? (If nothing would affect your decision, say so and why!)
+
+- I think most of the time, directly editting the code on the remote computer using vim is better. Because oftentimes, after we copied our code to the remote computer and run the program there, we will probably encounter some unexpected behavior (because its common to have bugs in our code). Then this happens, we may need to modifty the code, and re-run it several times until it works correctly. If we use `scp` everytime we make some change to the code, it'll be extremely time consuming. So directly editing the code on the remote computer is a desired choice. 
