@@ -5,6 +5,7 @@
 - `vim DocSearcher.java`
 
 enter vim normal mode
+
 <img width="561" alt="截屏2022-11-12 上午12 25 47" src="https://user-images.githubusercontent.com/100378969/201466114-83c3bb8b-124c-422f-b1cb-beb481b24d83.png">
 
 - `/start`
@@ -44,6 +45,7 @@ click `<Esc>` to exit insert mode (back to normal mode)
 - `n`
 
 click `n` to move the cursor to the next matching word
+
 <img width="500" alt="截屏2022-11-12 上午12 28 55" src="https://user-images.githubusercontent.com/100378969/201466124-00f7ff6c-af13-464c-b433-86bd691954d6.png">
 
 
