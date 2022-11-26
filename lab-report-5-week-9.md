@@ -58,7 +58,7 @@ fi
 bash grade.sh https://github.com/ucsd-cse15l-f22/list-methods-lab3
 ```
 
-<img width="825" alt="截屏2022-11-24 下午3 36 57" src="https://user-images.githubusercontent.com/100378969/203874901-c1e3ef87-e25a-4c3f-bf70-b40278387161.png">
+<img width="739" alt="截屏2022-11-25 下午4 13 45" src="https://user-images.githubusercontent.com/100378969/204065158-52726230-d6e6-46e3-88cc-dc97f7940ba8.png">
 
 
 - Example 2 -  this submission has a syntax error of a missing semicolon so that  Run `grade.sh` using the following commands:
@@ -67,14 +67,14 @@ bash grade.sh https://github.com/ucsd-cse15l-f22/list-methods-compile-error
 ```
 
 
-<img width="879" alt="截屏2022-11-24 下午3 37 24" src="https://user-images.githubusercontent.com/100378969/203874904-ce5d438f-902a-460f-be16-a0f97c420244.png">
+<img width="764" alt="截屏2022-11-25 下午4 14 06" src="https://user-images.githubusercontent.com/100378969/204065159-8034c407-b6c3-4c31-af8b-56540d9d462c.png">
 
 - Example 3 -  this submission has a great implementation saved in a file with the wrong name. Run `grade.sh` using the following commands:
 ```
 bash grade.sh https://github.com/ucsd-cse15l-f22/list-methods-filename
 ```
 
-<img width="844" alt="截屏2022-11-24 下午3 37 54" src="https://user-images.githubusercontent.com/100378969/203874908-68d91f90-0de7-46b4-9e97-3444df8965aa.png">
+<img width="731" alt="截屏2022-11-25 下午4 14 25" src="https://user-images.githubusercontent.com/100378969/204065167-fd5a61c8-e835-4626-a75f-a8d9a06073bc.png">
 
 ---
 
